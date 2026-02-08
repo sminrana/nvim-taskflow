@@ -15,7 +15,7 @@ Taskflow.nvim is a SQLite-backed task system for Neovim focused on fast capture,
 
 ```lua
 {
-  "sminrana/taskflow.nvim",
+  "sminrana/nvim-taskflow",
   opts = {
     db_path = "~/Desktop/taskf/taskflow.db",
   },
@@ -26,7 +26,7 @@ Taskflow.nvim is a SQLite-backed task system for Neovim focused on fast capture,
 
 ```lua
 use {
-  "sminrana/taskflow.nvim",
+  "sminrana/nvim-taskflow",
   config = function()
     require("taskflow").setup({
       db_path = "~/Desktop/taskf/taskflow.db",
