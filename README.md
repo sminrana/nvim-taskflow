@@ -107,3 +107,7 @@ The DB location is configurable via `db_path`. Default:
 ## License
 
 MIT
+
+## Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/sminrana/nvim-taskflow/refs/heads/main/dashboard.png)
