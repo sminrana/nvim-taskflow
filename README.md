@@ -1,6 +1,6 @@
-# Taskflow.nvim
+# Taskflow
 
-Taskflow.nvim is a SQLite-backed task system for Neovim focused on fast capture, real dashboards, and repeatable workflows.
+Taskflow is a SQLite-backed task system for Neovim focused on fast capture, real dashboards, and repeatable workflows.
 
 ## Why
 
